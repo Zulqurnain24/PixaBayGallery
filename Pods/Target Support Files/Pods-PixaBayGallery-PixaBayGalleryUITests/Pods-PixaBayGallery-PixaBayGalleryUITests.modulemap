@@ -1,0 +1,6 @@
+framework module Pods_PixaBayGallery_PixaBayGalleryUITests {
+  umbrella header "Pods-PixaBayGallery-PixaBayGalleryUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
